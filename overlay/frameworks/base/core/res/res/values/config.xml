@@ -191,4 +191,11 @@
 	<bool name="config_dozeAfterScreenOff">true</bool>
 	<bool name="doze_pulse_on_significant_motion">true</bool>
 	<bool name="doze_display_state_supported">true</bool>
+	
+	<!-- Maximum number of supported users -->
+	<integer name="config_multiuserMaximumUsers">4</integer>
+
+	<!-- Whether UI for multi user should be shown -->
+	<bool name="config_enableMultiUserUI">true</bool>
+	
 </resources>
